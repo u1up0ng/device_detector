@@ -44,7 +44,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 #### Content<a name="contents"></a>
 The archive submission includes the following files:<br>
-1. An Jupyter Notebook file that runs the Project Code (inbuilding_detector_01.ipynb)<br>
+1. A Jupyter Notebook file that runs the Project Code (inbuilding_detector_01.ipynb)<br>
 2. A 3MB CSV file that contains the project data (equipment_data_parsed.csv)<br>
 4. Icon image file (u1up0ng.png)
 3. This README.md file
